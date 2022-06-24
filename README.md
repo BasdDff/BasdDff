@@ -9,8 +9,8 @@
 - Соц-сеть 
 [Код]([[https://github.com/BasdDff/music-platform](https://github.com/BasdDff/Sociallllllll)]
  
-- Проект "Помощник мэра" 
-[Код](https://github.com/Magomed-Suleymanov/City_hall_assistant) | [Demo](https://fierce-refuge-34600.herokuapp.com/)
+- Соц-сеть 
+[Код](https://github.com/BasdDff/Sociallllllll)
 
 ### 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/basddff)
