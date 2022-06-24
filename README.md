@@ -4,6 +4,12 @@
 **BasdDff/BasdDff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Мои проекты: 
+
+- Магазин книг https://github.com/AdrianFoxy/asp-net-web-api-bookstore/tree/master 
+- Музыкальная платформа https://github.com/BasdDff/music-platform
+- Соц-сеть https://github.com/BasdDff/Sociallllllll
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
