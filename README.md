@@ -9,7 +9,7 @@
 [Код](https://github.com/BasdDff/music-platform)
 
 - Соц-сеть 
-[Код](https://github.com/BasdDff/Sociallllllll)
+[Код](https://github.com/BasdDff/SocialNetwork)
 
 ### 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/basddff)
