@@ -2,14 +2,14 @@
 
 Мои проекты: 
 
-- Магазин книг 
-[Код](https://github.com/AdrianFoxy/asp-net-web-api-bookstore/tree/master)
 
-- Музыкальная платформа
-[Код](https://github.com/BasdDff/music-platform)
+[1](https://github.com/AdrianFoxy/asp-net-web-api-bookstore/tree/master)
 
-- Соц-сеть 
-[Код](https://github.com/BasdDff/SocialNetwork)
+
+[2](https://github.com/BasdDff/music-platform)
+
+
+[3](https://github.com/BasdDff/SocialNetwork)
 
 ### 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/basddff)
