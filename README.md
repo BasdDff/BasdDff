@@ -1,6 +1,4 @@
-### Приветствую 👋
 
-Мои проекты: 
 
 
 [1](https://github.com/AdrianFoxy/asp-net-web-api-bookstore/tree/master)
